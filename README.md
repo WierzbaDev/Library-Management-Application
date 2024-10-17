@@ -81,4 +81,3 @@ Administrators can manage books and users, as well as review reservations and lo
 
 ## Contact
 - Mateusz - [My github account](https://github.com/WierzbaDev)
-- Email - wierzbbaa@gmail.com
